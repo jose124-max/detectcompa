@@ -87,8 +87,8 @@
         android:layout_width="109dp"
         android:layout_height="51dp"
         android:layout_marginEnd="10dp"
-        android:onClick="Labeling"
-        android:text="leaving"
+        android:onClick="PersonalizedModel"
+        android:text="Identifica"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toTopOf="@+id/btFace" />
 </androidx.constraintlayout.widget.ConstraintLayout>
